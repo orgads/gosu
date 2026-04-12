@@ -1,8 +1,8 @@
 module github.com/tianon/gosu
 
-go 1.25.7
+go 1.26.2
 
 require (
 	github.com/moby/sys/user v0.4.0
-	golang.org/x/sys v0.41.0
+	golang.org/x/sys v0.43.0
 )
